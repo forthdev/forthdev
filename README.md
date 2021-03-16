@@ -1,5 +1,5 @@
 
-## 📫 Repositório FORTH Inoformárica.
+## 📫 Repositório FORTH Informática.
 
  ### Projetos:
  - reino.Diario
